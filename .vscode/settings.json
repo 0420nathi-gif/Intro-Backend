@@ -1,4 +1,12 @@
 {
-	"editor.tabSize": 7,
-	"editor.insertSpaces": true
+	"editor.tabSize": 6,
+	"editor.insertSpaces": true,
+	"indentRainbow.colors": [
+		"rgba(255, 64, 64, 0.12)",
+		"rgba(255, 192, 64, 0.12)",
+		"rgba(192, 255, 64, 0.12)",
+		"rgba(64, 255, 128, 0.12)",
+		"rgba(64, 192, 255, 0.12)",
+		"rgba(192, 64, 255, 0.12)"
+	]
 }
